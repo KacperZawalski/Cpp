@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611843572 source:c:\users\kacper\desktop\projekty\projekty_cpp\plik_binarny_dynamiczne_tablice\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

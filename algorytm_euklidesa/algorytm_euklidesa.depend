@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589389752 source:c:\users\kacper\desktop\projekty\algorytm_euklidesa\main.cpp
+	<iostream>
+
+1606248544 source:c:\users\kacper\desktop\projekty\projekty_cpp\algorytm_euklidesa\main.cpp
+	<iostream>
+	<windows.h>
+

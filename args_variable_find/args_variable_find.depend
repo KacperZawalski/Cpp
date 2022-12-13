@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610630364 source:c:\users\kacper\desktop\projekty\projekty_cpp\args_variable_find\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdarg>
+

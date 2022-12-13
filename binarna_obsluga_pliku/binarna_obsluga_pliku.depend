@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611240025 source:c:\users\kacper\desktop\projekty\projekty_cpp\binarna_obsluga_pliku\main.c
+	<stdio.h>
+	<stdlib.h>
+

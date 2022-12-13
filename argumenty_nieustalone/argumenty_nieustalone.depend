@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610029374 source:c:\users\kacper\desktop\projekty\projekty_cpp\argumenty_nieustalone\main.cpp
+	<stdio.h>
+	<stdarg.h>
+	<cstdlib>
+	<cmath>
+

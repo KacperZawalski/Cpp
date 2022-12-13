@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1573632599 source:c:\users\uczen\desktop\liczenie_czasu\main.cpp
+	<iostream>
+	"bombelek.h"
+
+1573631077 source:c:\users\uczen\desktop\liczenie_czasu\bombelek.cpp
+	"bombelek.h"
+
+1573632570 c:\users\uczen\desktop\liczenie_czasu\bombelek.h
+	<cstdlib>
+	<iostream>
+
+1573632665 source:c:\users\uczen\desktop\liczenie_czasu\quick.cpp
+	"quick.h"
+
+1573632901 c:\users\uczen\desktop\liczenie_czasu\quick.h
+
+1573631078 source:c:\users\kacper\desktop\projekty\liczenie_czasu\bombelek.cpp
+	"bombelek.h"
+
+1574597033 c:\users\kacper\desktop\projekty\liczenie_czasu\bombelek.h
+	<cstdlib>
+	<iostream>
+
+1573632666 source:c:\users\kacper\desktop\projekty\liczenie_czasu\quick.cpp
+	"quick.h"
+
+1574597017 c:\users\kacper\desktop\projekty\liczenie_czasu\quick.h
+	<iostream>
+
+1574596000 source:c:\users\kacper\desktop\projekty\liczenie_czasu\src\merge.cpp
+	"merge.h"
+
+1574598485 c:\users\kacper\desktop\projekty\liczenie_czasu\include\merge.h
+	<iostream>
+
+1574790333 source:c:\users\kacper\desktop\projekty\liczenie_czasu\main.cpp
+	<iostream>
+	"bombelek.h"
+	"quick.h"
+	"merge_sort.h"
+
+1574599238 source:c:\users\kacper\desktop\projekty\liczenie_czasu\src\merge_sort.cpp
+	"merge_sort.h"
+
+1574790305 c:\users\kacper\desktop\projekty\liczenie_czasu\include\merge_sort.h
+

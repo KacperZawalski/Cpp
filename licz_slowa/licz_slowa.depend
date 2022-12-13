@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573059977 source:c:\users\kacper\desktop\projekty\licz_slowa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cctype>
+

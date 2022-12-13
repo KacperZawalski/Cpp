@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606406143 source:c:\users\kacper\desktop\projekty\projekty_cpp\studia_macierz_najwieksza_najmniejsza\main.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<windows.h>
+

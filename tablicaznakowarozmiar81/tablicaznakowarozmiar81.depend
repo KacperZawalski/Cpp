@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607005798 source:c:\users\kacper\desktop\projekty\projekty_cpp\tablicaznakowarozmiar81\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+
