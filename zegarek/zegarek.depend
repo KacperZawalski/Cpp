@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580835012 source:c:\users\kacper\desktop\projekty\zegarek\main.cpp
+	<iostream>
+	"timer.h"
+
+1604583259 c:\users\kacper\desktop\projekty\zegarek\include\timer.h
+	<windows.h>
+	<iostream>
+
+1580833843 source:c:\users\kacper\desktop\projekty\zegarek\src\timer.cpp
+	"timer.h"
+

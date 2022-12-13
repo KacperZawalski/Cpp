@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604587781 source:c:\users\kacper\desktop\projekty\zadanie4ce\main.cpp
+	<iostream>
+	<math.h>
+

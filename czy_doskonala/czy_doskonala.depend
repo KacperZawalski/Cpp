@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605187351 source:c:\users\kacper\desktop\projekty\czy_doskonala\main.cpp
+	<iostream>
+	<math.h>
+
